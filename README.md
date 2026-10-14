@@ -27,7 +27,7 @@
 <!-- LIVE TRAFFIC SENSOR & SOCIAL COMMS DOCK -->
 <p align="center">
   <a href="https://github.com/krushil21386">
-    <img src="https://komarev.com/ghpvc/?username=krushil21386&label=ACCESS_LOGS&color=00ff9d&style=flat-square&logo=github&logoColor=000" alt="Visitor Counter" />
+    <img src="https://views.igorkowalczyk.dev/api/badge/krushil21386?style=flat&color=green" alt="Profile Views" />
   </a>
   <a href="https://github.com/krushil21386">
     <img src="https://img.shields.io/badge/REPO-krushil21386-0D1117?style=flat-square&logo=github&logoColor=00ff9d&labelColor=090d16" alt="GitHub Profile" />
